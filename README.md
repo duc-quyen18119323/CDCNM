@@ -1,1 +1,0 @@
-Metamask Connection by Bao
