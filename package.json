@@ -5,11 +5,19 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+<<<<<<< HEAD
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
     "next": "13.2.3",
+=======
+    "start": "next start -p 3005",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.0.3",
+>>>>>>> 645dbf136e3e44dbe95531c08711df88d421b509
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
